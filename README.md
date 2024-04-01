@@ -60,7 +60,7 @@ Fee modality.
 
 # Family
 
-Your family is welcome to join us in Guanajuato! 
+Your family is welcome to join us in Mineral de Pozos! 
 
 We understand that each family's needs may vary based on the number of children and/or including pets. If it would be more convenient for you, we are more than happy to make separate accommodations for families and individuals attending the lecture hall. If this applies to your situation, please inform the organizing committee, and we will gladly provide personalized assistance to ensure you and your family comfort and satisfaction.
 
@@ -72,14 +72,14 @@ Please [fill out this form](https://docs.google.com/forms/d/1nxQhFYKsHHbI6D79y58
 
 # Check-in
 
-Check-in will be at Hotel Hacienda el Marqués reception on from 3 pm to 6 pm. If you are arriving before registration, please contact and wait for the organizing committee. Note that late-night registration will not be supported after 8 pm, even for those running late. 
+Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If you are arriving before registration, please contact and wait for the organizing committee. Note that late-night registration will not be supported after 8 pm, even for those running late. 
 
 # Further information
 
-- **Cash:**  Hotel Hacienda el Marqués takes credit/debit cards. 
+- **Cash:**  Hotel La Casona MInera takes credit/debit cards. 
 - **Internet:** WIFI is available in Hotel Hacienda el Marqués but might not cover all rooms equally.
 
-# 2023 Organizing comittee
+# 2024 Organizing comittee
 
 MSc student Wilmer 
 PhD Flor
