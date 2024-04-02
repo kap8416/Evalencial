@@ -41,11 +41,12 @@ Fee modality.
 
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
-| Double room, 1 person                | $ 2,400                         | $ 14,400                    |
-| Double room, 2 people                | $ 1,300                         | $ 7,800                     |
-| Quadruple room, 2 people             | $ 1,300                         | $ 7,800                     |
-| Quadruple room, 4 people             | $ 650                           | $ 3,900                     |
-  
+| Double room, (King size, 1 person                | $ 2,400                         | $ 14,400                    |
+| Double room, (King size, 2 people                | $ 1,300                         | $ 7,800                     |
+| Double room, (Queen size, 2 people                | $ 1,300                         | $ 7,800                     |
+| Quadruple room, (Queen, 3 people             | $ 850                         | $ 5,100                     |
+| Quadruple room, (Queen, 4 people             | $ 650                           | $ 3,900                     |
+| Quadruple room, (Queen, 5 people             | $ 520                           | $ 3,120                     |
 
 
 <img src="imgs/rooms.png" class="img-responsive" alt="">
@@ -76,15 +77,15 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 
 # Further information
 
-- **Cash:**  Hotel La Casona MInera takes credit/debit cards. 
-- **Internet:** WIFI is available in Hotel Hacienda el Marqués but might not cover all rooms equally.
+- **Cash:**  Hotel La Casona Minera takes credit/debit cards. 
+- **Internet:** WIFI is available in Hotel La Casoona Minera but might not cover all rooms equally.
 
 # 2024 Organizing comittee
 
-MSc student Wilmer 
-PhD Flor
+PhD Wilmer 
+PhD Flor Citlally Alcantar-Aguirre
 PhD Katia Aviña-Padilla
-PhD Eliana Valencia Lozano 
+PhD Eliana Valencia-Lozano 
 
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
