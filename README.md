@@ -17,7 +17,7 @@ The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/
 
 <img src="imgs/hhem_2.png" class="img-responsive" alt="">
 
-The hotel has multiple rooms however there are no single rooms available. The suggested room is a 2 bed-1 bath for one, two or more people (up to 4). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
+The hotel has multiple rooms however there are no single rooms available. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 bed-Queen size, with possibility of extra person, bath for one, two or more people (up to 4). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
 # Scientific Program & Workshops
 
