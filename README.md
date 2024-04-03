@@ -3,7 +3,7 @@ https://biocomplexnet.github.io/biocomplexnet.github.io
 
 We are delighted to announce that this event will take place from **July 28th to August 2nd of the current year 2024**, at Hotel La Casona Minera, located in Mineral de Pozos, Guanajuato, Mexico.
 
-<img src="imgs/1_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/1_3rd Summer Camp" class="img-responsive" alt="">
 
 The **3nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
@@ -15,7 +15,7 @@ You can find a photographic record of our past retreat in our Twitter! [@Bioinfo
 
 The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/) ([C. 5 de Mayo, Zona Centro, 36000 Guanajuato, Gto.](https://maps.app.goo.gl/oMv2D1HGpW67FeMDA)).
 
-<img src="imgs/2_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/2_3rd Summer Camp" class="img-responsive" alt="">
 
 The hotel has multiple rooms however there are no single rooms available. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 bed-Queen size, with possibility of extra person, bath for one, two or more people (up to 4). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
@@ -32,9 +32,9 @@ A meaningful (*preliminary*) title should be given during registration to schedu
 
 Preliminary schedule of our scientific program. *Definitive information on the schedule will be given soon.*
 
-<img src="imgs/schedule.png" class="img-responsive" alt="">
+<img src="Imgs/schedule.png" class="img-responsive" alt="">
 
-<img src="imgs/talks.png" class="img-responsive" alt=""> 
+<img src="Imgs/talks.png" class="img-responsive" alt=""> 
 
 # Fee
 Fee modality.
@@ -49,7 +49,7 @@ Fee modality.
 | Quadruple room, (Queen, 5 people             | $ 520                           | $ 3,120                     |
 
 
-<img src="imgs/3_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/3_3rd Summer Camp" class="img-responsive" alt="">
 
 **Notes and considerations:** 
 -It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
@@ -89,4 +89,4 @@ PhD Eliana Valencia-Lozano
 
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
-<img src="imgs/4_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/4_3rd Summer Camp" class="img-responsive" alt="">
