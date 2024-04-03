@@ -55,7 +55,7 @@ Fee modality.
 -It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
 - The conference fee includes accommodation at Hotel La casona Minera and breakfast. 
 - Meals (lunch and dinner) are not included in the program fee. However, joint outings are organized to engage in group activities, but you are responsible for covering your own meal expenses during the program.
-- After your registration, you will receive an email with **payment details** in case you want to stay at Hotel La casona Minera. 
+- After your registration, you will receive an email with **payment details** in case you want to stay at Hotel La Casona Minera. 
 - The conference fee can only be refunded if the registration is canceled by the end of the registration deadline on July 9th (per e-mail). Otherwise, your payment will not be refunded.
 - While attendees are kindly asked to take care of their own travel arrangements, we want to assure you that we are here to assist you with any further instructions or guidance you may need upon your arrival at the hotel. Please don't hesitate to reach out to us.
 
