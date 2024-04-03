@@ -15,7 +15,7 @@ You can find a photographic record of our past retreat in our Twitter! [@Bioinfo
 
 The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/) ([C. 5 de Mayo, Zona Centro, 36000 Guanajuato, Gto.](https://maps.app.goo.gl/oMv2D1HGpW67FeMDA)).
 
-<img src="Imgs/2_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The hotel has multiple rooms however there are no single rooms available. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 bed-Queen size, with possibility of extra person, bath for one, two or more people (up to 4). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
@@ -49,7 +49,7 @@ Fee modality.
 | Quadruple room, (Queen, 5 people             | $ 520                           | $ 3,120                     |
 
 
-<img src="Imgs/3_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/3_3rd Summer Camp.png" class="img-responsive" alt="">
 
 **Notes and considerations:** 
 -It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
@@ -89,4 +89,4 @@ PhD Eliana Valencia-Lozano
 
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
-<img src="Imgs/4_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/4_3rd Summer Camp.png" class="img-responsive" alt="">
