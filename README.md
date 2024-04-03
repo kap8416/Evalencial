@@ -78,7 +78,7 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 # Further information
 
 - **Cash:**  Hotel La Casona Minera takes credit/debit cards. 
-- **Internet:** WIFI is available in Hotel La Casoona Minera but might not cover all rooms equally.
+- **Internet:** WIFI is available in Hotel La Casona Minera but might not cover all rooms equally.
 
 # 2024 Organizing comittee
 
