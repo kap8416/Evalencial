@@ -41,8 +41,8 @@ Fee modality.
 
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
-| Double room, (King size, 1 person                | $ 2,400                         | $ 14,400                    |
-| Double room, (King size, 2 people                | $ 1,300                         | $ 7,800                     |
+| Double room, (King size, 1 person                | $ 2,200                         | $ 13,200                    |
+| Double room, (King size, 2 people                | $ 1,100                         | $ 6,600                     |
 | Double room, (Queen size, 2 people                | $ 1,300                         | $ 7,800                     |
 | Quadruple room, (Queen, 3 people             | $ 850                         | $ 5,100                     |
 | Quadruple room, (Queen, 4 people             | $ 650                           | $ 3,900                     |
