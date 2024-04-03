@@ -82,7 +82,7 @@ Check-in will be at Hotel La Casona Minera reception on from 3 pm to 6 pm. If yo
 
 # 2024 Organizing comittee
 
-PhD Wilmer 
+PhD Wilbert Gutiérrez Sarmiento
 PhD Flor Citlally Alcantar-Aguirre
 PhD Katia Aviña-Padilla
 PhD Eliana Valencia-Lozano 
