@@ -5,7 +5,7 @@ We are delighted to announce that this event will take place from **July 28th to
 
 <img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The **3nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
+The **3rd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
 This event is organized by the [Bioinformatics and Complex Networks Lab](https://portal.cinvestav.mx/ira/investigacion/directorio-de-investigacion/dra-maribel-hern225ndez-rosales) located at CINVESTAV Irapuato, Guanajuato. 
 
