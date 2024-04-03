@@ -17,7 +17,7 @@ The event will take place at [Hotel La Casona Minera](https://lacasonahotel.com/
 
 <img src="Imgs/2_3rd Summer Camp.png" class="img-responsive" alt="">
 
-The hotel has multiple rooms. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 beds-Queen size, with possibility of extra person, bath for one, two or more people (up to 5). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
+The hotel has multiple rooms. The suggested Double room is a 1 bed-King size and  Quadruple room is a 2 beds-Queen size, with possibility of extra two or more people (up to 5), bath for one. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
 # Scientific Program & Workshops
 
