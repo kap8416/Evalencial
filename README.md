@@ -3,7 +3,7 @@ https://biocomplexnet.github.io/biocomplexnet.github.io
 
 We are delighted to announce that this event will take place from **July 28th to August 2nd of the current year 2024**, at Hotel La Casona Minera, located in Mineral de Pozos, Guanajuato, Mexico.
 
-<img src="Imgs/1_3rd Summer Camp" class="img-responsive" alt="">
+<img src="Imgs/1_3rd Summer Camp.png" class="img-responsive" alt="">
 
 The **3nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
